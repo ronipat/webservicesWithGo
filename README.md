@@ -1,7 +1,7 @@
 # webservicesWithGo
 Web services with Go lang
 
-Prepare database :
+Prepare MySQL database :
 ```
 CREATE TABLE IF NOT EXISTS `employee` (
   `id` int(11) NOT NULL,
